@@ -23,7 +23,7 @@ public class Class1 {
 	@Before
 	public void Method2() throws Exception {
 		System.out.println("Access the application ");
-		//
+		//jkh
 	}
 
 	@After
